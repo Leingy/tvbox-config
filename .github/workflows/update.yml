@@ -57,3 +57,8 @@ jobs:
           git add -A
           git commit -m "chore: auto update $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl -sf "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/tvbox.slim.json" || true
+          curl -sf "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/tvbox.json" || true
