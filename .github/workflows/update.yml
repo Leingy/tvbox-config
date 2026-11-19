@@ -1,0 +1,59 @@
+name: Update TVBox Config
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # UTC 21:00 = 北京时间 05:00
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: '探测站点存活（较慢，约 3-5 分钟）'
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tvbox
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch upstream config
+        run: node scripts/fetch.mjs
+
+      - name: Probe site availability
+        if: github.event_name != 'push' || inputs.probe == true
+        run: node scripts/probe.mjs
+        continue-on-error: true
+
+      - name: Build slim config
+        run: node scripts/build.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git add -A
+          git commit -m "chore: auto update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

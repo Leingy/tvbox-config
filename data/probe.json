@@ -1,0 +1,4539 @@
+[
+ {
+  "key": "豆瓣",
+  "name": "🐼┃QQ频道：肥猫宝贝┃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "豆瓣预告",
+  "name": "🐼┃豆瓣┃预告",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "config",
+  "name": "🐼┃配置┃中心",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "PanMarket",
+  "name": "🐼┃网盘┃应用",
+  "ok": false,
+  "ms": 259,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "alllive",
+  "name": "🎮┃游戏┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_FeiMaoUC",
+  "name": "⚡┃闪电┃优汐",
+  "ok": false,
+  "ms": 8004,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "潮流",
+  "name": "🏜┃潮流┃APP",
+  "ok": false,
+  "ms": 58,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "肥猫",
+  "name": "🐼┃肥猫┃APP",
+  "ok": false,
+  "ms": 192,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "干饭",
+  "name": "🍚┃干饭┃APP",
+  "ok": false,
+  "ms": 237,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "光盘",
+  "name": "📀┃光盘┃APP",
+  "ok": false,
+  "ms": 8,
+  "hits": 0,
+  "reason": "Failed to parse URL from http://103.217.190.91:5566|hagYExMdMkeWfemK?ac=videolis"
+ },
+ {
+  "key": "行动",
+  "name": "😌┃行动┃APP",
+  "ok": false,
+  "ms": 193,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "再来",
+  "name": "✌️┃再来┃APP",
+  "ok": false,
+  "ms": 587,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "一碗",
+  "name": "🥣┃一碗┃APP",
+  "ok": false,
+  "ms": 176,
+  "hits": 0,
+  "status": 451,
+  "reason": ""
+ },
+ {
+  "key": "韩圈",
+  "name": "⭕┃韩圈 ┃APP",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "一起",
+  "name": "👀┃一起┃APP",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "咕噜",
+  "name": "🕊┃︎咕噜┃APP",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "蔬菜",
+  "name": "🫛┃蔬菜┃APP",
+  "ok": false,
+  "ms": 160,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "csp_Jpys",
+  "name": "🥇️┃金牌┃影视",
+  "ok": false,
+  "ms": 2236,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "荐片",
+  "name": "🎬┃荐片┃影视",
+  "ok": false,
+  "ms": 423,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_SaoHuo",
+  "name": "🔥┃火火┃影视",
+  "ok": false,
+  "ms": 1563,
+  "hits": 0,
+  "status": 522,
+  "reason": ""
+ },
+ {
+  "key": "csp_Gz360",
+  "name": "🍉┃瓜子┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "厂长",
+  "name": "🏭┃厂长┃影视",
+  "ok": false,
+  "ms": 630,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_SP360",
+  "name": "📺┃360┃官源",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili",
+  "name": "🅱┃️哔哩┃合集",
+  "ok": false,
+  "ms": 202,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_Dm84",
+  "name": "🤣┃动漫┃巴士",
+  "ok": false,
+  "ms": 124,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "方舟",
+  "name": "🐷┃方舟┃动漫",
+  "ok": false,
+  "ms": 2,
+  "hits": 0,
+  "reason": "Failed to parse URL from https://www.cyfz.top|e72cdfd629e8895d?ac=videolist&wd=%"
+ },
+ {
+  "key": "番薯",
+  "name": "🍠┃番薯┃动漫",
+  "ok": false,
+  "ms": 2,
+  "hits": 0,
+  "reason": "Failed to parse URL from https://app.omofun1.top|66dc309cbeeca454?ac=videolist&w"
+ },
+ {
+  "key": "csp_FirstAid",
+  "name": "🚑┃急救┃教学",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "酷狗",
+  "name": "🐾┃酷狗┃音乐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MTV",
+  "name": "🎧┃明星┃MV",
+  "ok": false,
+  "ms": 293,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "看球",
+  "name": "⚾┃看球┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "瓜子",
+  "name": "🏀┃瓜子┃体育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "米搜",
+  "name": "🌖┃米搜┃网盘",
+  "ok": false,
+  "ms": 7,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_PanSearch",
+  "name": "🚃┃盘搜┃网盘",
+  "ok": false,
+  "ms": 9,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "儿童",
+  "name": "📚┃儿童┃启蒙",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_少儿",
+  "name": "📚┃少儿┃教育",
+  "ok": false,
+  "ms": 244,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_小学",
+  "name": "📚┃小学┃课堂",
+  "ok": false,
+  "ms": 232,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_初中",
+  "name": "📚┃初中┃课堂",
+  "ok": false,
+  "ms": 272,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_高中",
+  "name": "📚┃高中┃课堂",
+  "ok": false,
+  "ms": 280,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "push_agent",
+  "name": "QQ频道：肥猫宝贝",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Douban",
+  "name": "🐮【免费分享】🐮",
+  "ok": false,
+  "ms": 169,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "Doubanaaaa",
+  "name": "🐮【更新日期:20261117】🐮",
+  "ok": false,
+  "ms": 170,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "Wexconfig",
+  "name": "🐮配置┃中心🐮",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MyPan",
+  "name": "🐮我的┃网盘🐮",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "花卷",
+  "name": "💓花卷┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "玩偶",
+  "name": "💓‍玩偶┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewGuanYing",
+  "name": "💓‍观影┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiQwMkv",
+  "name": "💓‍七味┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewPianKu",
+  "name": "💓盘库┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewHuBan",
+  "name": "💓虎斑┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewMuOu",
+  "name": "💓木偶┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewDuoDuo",
+  "name": "💓多多┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewKuaiYing",
+  "name": "💓快影┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewLaBi",
+  "name": "💓蜡笔┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewShanDian",
+  "name": "💓闪电┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewJuTou",
+  "name": "💓剧透┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewLibvio",
+  "name": "💓立播┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "原盘",
+  "name": "💓‍原盘┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "蜗牛",
+  "name": "💓‍蜗牛┃4K💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiPan1Me",
+  "name": "💓盘迷┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AiNewYiDong4K",
+  "name": "💓逸动┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexHanXiaoQuan",
+  "name": "💥韩剧┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiGuaZi",
+  "name": "💥瓜子┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiDuBoKu",
+  "name": "💥独播┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiYueYue",
+  "name": "💥闪电┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiWenCai",
+  "name": "💥文才┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexFengYe4K",
+  "name": "💥小枫┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "賤賤",
+  "name": "💥贱片┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "下饭",
+  "name": "💥下饭┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 大师兄",
+  "name": "💥师兄┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 粉猪追剧",
+  "name": "💥粉猪┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 咸鱼",
+  "name": "💥咸鱼┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 追剧达人",
+  "name": "💥追剧┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 小柚子",
+  "name": "💥柚子┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 小柠檬",
+  "name": "💥柠檬┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 蒙太奇",
+  "name": "💥太奇┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 零零七影视",
+  "name": "💥零七┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 小柿子",
+  "name": "💥柿子┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AppV7 | 小黄人",
+  "name": "💥黄人┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiYiYs",
+  "name": "💥伊影┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiReBo",
+  "name": "💥热播┃秒播💥",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiBoBo",
+  "name": "🎇伯伯┃秒播🎇",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WexAiIkanBot",
+  "name": "🎇爱看┃采集🎇",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "LiveAiHuYa",
+  "name": "🐯‍虎牙┃直播🐯‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "LiveAiDouYu",
+  "name": "🐳斗鱼┃直播🐳",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "LiveAiBiLi",
+  "name": "🅱️哔哩┃直播🅱️",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ManJuAiHongGuo",
+  "name": "🍉漫短┃小红🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ManJuAiHuoLong",
+  "name": "🍉漫剧┃小龙🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ManJuAiQiMao",
+  "name": "🍉漫剧┃小猫🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ManJuAiXiFan",
+  "name": "🍉漫短┃小喜🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ManJuAiHeMa",
+  "name": "🍉漫短┃小马🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DuanJuAiHaoKan",
+  "name": "🍉短剧┃好看🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DuanJuAiQiMiao",
+  "name": "🍉短剧┃小猫🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DuanJuAiXingYa",
+  "name": "🍉短剧┃星星🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DuanJuAiWeiGuan",
+  "name": "🍉短剧┃小薇🍉",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AnimeAiGongHeGuo",
+  "name": "🤡共和┃动漫🤡",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AnimeXiFan",
+  "name": "🤡稀饭┃动漫🤡",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AnimeCiYuanCheng",
+  "name": "🤡次元┃动漫🤡",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AnimeAiMoDu",
+  "name": "🤡魔都┃动漫🤡",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "BookHongGuo",
+  "name": "🎃‍小红┃听书🎃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "BookHeMa",
+  "name": "🎃‍小马┃听书🎃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "BookAiYueTing",
+  "name": "🎃‍悦庭┃听书🎃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "BookAi23TingShu",
+  "name": "🎃‍爱上┃听书🎃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ChildrenAiBaoBao",
+  "name": "👼宝宝┃儿歌👼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ChildrenAiBeiWa",
+  "name": "👼贝贝┃儿歌👼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ChildrenAiTuTu",
+  "name": "👼兔兔┃儿歌👼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiTangDou",
+  "name": "💃跳舞┃教学💃",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiLiYuan",
+  "name": "🎎戏曲┃秒播🎎",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiQingTing",
+  "name": "🎼蜻蜓┃电台🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiIKtv",
+  "name": "🎼KTV┃音乐🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiKuWoa",
+  "name": "🎼小酷┃音乐🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAi163",
+  "name": "🎼易听┃音乐🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiKuWo",
+  "name": "🎼酷听┃音乐🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MusicAiLunHui",
+  "name": "🎼轮回┃舞曲🎼",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiFeiQiu",
+  "name": "🌐飞球┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiGuaZi",
+  "name": "🌐瓜子┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiKanQiuTong",
+  "name": "🌐球通┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiKanqiu",
+  "name": "🌐八八┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiKaFei",
+  "name": "🌐咖啡┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SportAiWwe",
+  "name": "🌐WWE┃体育🌐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "FakeAi115Share",
+  "name": "💓115┃分享💓‍",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Emby",
+  "name": "💓Emby┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Emby001",
+  "name": "💓Emby001┃4K💓",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "AList",
+  "name": "👁️Alist┃DIY👁️",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "webdav",
+  "name": "👁️WebDav┃DIY👁️",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DiyVod",
+  "name": "👁Vod┃DIY👁️",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "biliys",
+  "name": "🅱哔哩┃影视🅱",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "bilibili",
+  "name": " 🅱‍哔哩┃合集🅱‍",
+  "ok": false,
+  "ms": 379,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "bilixiqu",
+  "name": " 🅱‍哔哩┃戏曲🅱‍",
+  "ok": false,
+  "ms": 545,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "biliych",
+  "name": " 🅱‍哔哩┃歌曲🅱‍",
+  "ok": false,
+  "ms": 533,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "少儿教育",
+  "name": "📚少儿┃教育📚",
+  "ok": false,
+  "ms": 457,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "小学课堂",
+  "name": "📚小学┃课堂📚",
+  "ok": false,
+  "ms": 608,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "初中课堂",
+  "name": "📚初中┃课堂📚",
+  "ok": false,
+  "ms": 631,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "高中教育",
+  "name": "📚高中┃课堂📚",
+  "ok": false,
+  "ms": 643,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "SoAiHaiYin",
+  "name": "🎠盘搜┃综合🎠",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SoAiPanSoo",
+  "name": "🎠九七┃综合🎠",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SoAiAiPanSo",
+  "name": "🎠爱盘┃综合🎠",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SoKaKa",
+  "name": "🎠卡卡┃综合🎠",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "SoAiQuanPanGuard",
+  "name": "🎠全盘┃综合🎠",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "wangerxiao_push_agent",
+  "name": "推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_douban",
+  "name": "🌕┃豆瓣┃热播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_KungFu404",
+  "name": "🔥┃设置Token",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "APP商店",
+  "name": "🎰┃蜂蜜┃商店",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "直播转点播",
+  "name": "📺︎┃电视┃点播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "虎牙直播js",
+  "name": "🐯┃虎牙┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_XYQBiu_斗鱼",
+  "name": "🐟┃斗鱼┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_玩偶",
+  "name": "👽玩偶哥哥┃4K弹幕",
+  "ok": false,
+  "ms": 1032,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "YGP",
+  "name": "🚀┃叨观┃新片",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_alllive",
+  "name": "📽️┃一直播┃LIVE",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_米搜",
+  "name": "🦋┃米盘┃搜搜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "抠搜",
+  "name": "🍄┃抠抠┃搜搜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Lib",
+  "name": "🌟┃Lib┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "文采",
+  "name": "💮┃文采┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "糯米",
+  "name": "🍓┃糯米┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "苹果",
+  "name": "🍎┃苹果┃IJK",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "萌米",
+  "name": "👀┃萌米┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "欢视",
+  "name": "👓┃欢视┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "南瓜",
+  "name": "🎃┃南瓜┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "热播",
+  "name": "📺┃热播┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "可可",
+  "name": "👻┃可可┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "zxzj",
+  "name": "🍊┃在线┃外剧",
+  "ok": false,
+  "ms": 2331,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "低端",
+  "name": "⏮️┃低端┃外剧",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "贱贱",
+  "name": "🐭┃贱贱┃P2P",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_厂长",
+  "name": "📔┃厂长┃不卡",
+  "ok": false,
+  "ms": 1794,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "原创",
+  "name": "☀┃原创┃不卡",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "比特",
+  "name": "🍄┃Btt┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Auete",
+  "name": "🏝┃Aue┃无广",
+  "ok": false,
+  "ms": 564,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "新6V",
+  "name": "🧲┃新6V┃磁力",
+  "ok": false,
+  "ms": 1669,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_nkvlog",
+  "name": "💢┃耐看┃电影",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Free",
+  "name": "💰️┃Free┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_KmeiJu",
+  "name": "🌎┃美剧┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_SuBaiBai",
+  "name": "🏳️┃素白┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Ikan",
+  "name": "💕┃爱看┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_FengGo",
+  "name": "🐕┃疯狗┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Juqq",
+  "name": "⭕┃剧圈┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Netfixtv",
+  "name": "💌┃至臻┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Vidhub2",
+  "name": "🎼┃Vid┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_AppRZ",
+  "name": " 🕵┃忍者┃影视",
+  "ok": false,
+  "ms": 1554,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "FreeOK",
+  "name": "️️👌┃Fre┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "毛驴",
+  "name": "🦙┃毛驴┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "云播影视",
+  "name": "☁️┃云播┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "虎虎1",
+  "name": "🐯┃虎虎┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_SC1080",
+  "name": "🏰┃圣城┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_兄弟",
+  "name": "💢┃兄弟┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Duopan",
+  "name": "🖍︎┃蜡笔┃云盘",
+  "ok": false,
+  "ms": 11,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "laoliubei_荐片",
+  "name": "🎬┃荐片┃影视",
+  "ok": false,
+  "ms": 1304,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_Ikanbot",
+  "name": "💋┃爱看┃Bot",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_hanjulao",
+  "name": "🏵┃韩剧┃高清",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "XYQH_JOJO",
+  "name": "🍁┃久久┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_XYQHiker_VSYY",
+  "name": "🎦┃VS┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_XYQ素白白",
+  "name": "⛈┃素白白┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_XYQ电影牛",
+  "name": "🍖┃电影牛┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Ysj",
+  "name": "🎀┃异界┃动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_csp_Dm84",
+  "name": "🚌┃动漫┃巴士",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Anime1",
+  "name": "🌸┃日本┃动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Ying",
+  "name": "💮┃樱花┃动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "聚短视频js",
+  "name": "📽️聚短┃视频",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "有声小说js",
+  "name": "🎧有声┃小说",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Aid",
+  "name": "🚑急救┃教学",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "夸搜",
+  "name": "🐌夸搜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "YiSo",
+  "name": "🎯易搜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "PanSou",
+  "name": "📀盘搜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "UpYun",
+  "name": "🌤️Up搜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "PanSearch",
+  "name": "🏵️盘Se┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_push_agent",
+  "name": "🛴手机┃推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "七夜",
+  "name": "🔎┃阿里┃七夜",
+  "ok": false,
+  "ms": 2,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "Zhaozy",
+  "name": "🔍┃阿里┃Zhaozy",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "drpy_js_lf_p2p",
+  "name": "💣┃磁力p2p┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Nbys",
+  "name": "🛫┃泥巴┃飞",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_trj",
+  "name": "🛫┃唐人街┃飞",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "P4_绿豆",
+  "name": "🐼┃绿豆┃影视",
+  "ok": false,
+  "ms": 1606,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "P4_Kuaikan",
+  "name": "👀┃快看┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "P4_哔嘀",
+  "name": "️️💦┃哔嘀┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "P4_皮皮虾",
+  "name": "🦐┃皮皮┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_MeiJu69",
+  "name": "🗽┃六九┃美剧",
+  "ok": false,
+  "ms": 1707,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "鑫鑫影视",
+  "name": "🥇┃鑫鑫┃App",
+  "ok": false,
+  "ms": 328,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_beijihu",
+  "name": "🎪┃极狐┃App",
+  "ok": false,
+  "ms": 144,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "益达影视",
+  "name": "🌝┃益达┃App",
+  "ok": false,
+  "ms": 1787,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "yaya",
+  "name": "💮┃鸭鸭┃App",
+  "ok": false,
+  "ms": 361,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xgapp",
+  "name": "🍉┃西瓜┃v3",
+  "ok": false,
+  "ms": 3342,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "骑骑影院",
+  "name": "🚵┃骑骑┃v3",
+  "ok": false,
+  "ms": 1154,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "圣城影视",
+  "name": "🏰┃圣城┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_云播影视",
+  "name": "☁️┃云播┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "爱看影视",
+  "name": "❤┃爱看┃蓝光",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_007",
+  "name": "🕵‍┃特工┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_低端",
+  "name": "🔥┃低端┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "奇优",
+  "name": " 🍩┃奇优┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "nangua",
+  "name": "🎃┃南瓜┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_骚火电影",
+  "name": "🔥┃骚火┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_荐片",
+  "name": "⏳┃荐片┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_Lib",
+  "name": "🍲┃Lib┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_czsapp",
+  "name": "🏭️┃厂长┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_大师兄",
+  "name": "🐵┃师兄┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_电影先生",
+  "name": "🤵┃电影┃先生",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_Xinsj",
+  "name": "🐠┃视觉┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_农民",
+  "name": "👨‍🌾┃农民┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_bzys",
+  "name": "🌋┃B站┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_555",
+  "name": "🌟┃三五┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_iqiyi",
+  "name": "🥝┃爱奇异(官)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_youku",
+  "name": "🥔┃优酷(官)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_qq",
+  "name": "🐧┃腾讯(官)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_mgtv",
+  "name": "🥭┃芒果(官)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_搜狗",
+  "name": "🚛┃搜狗(官)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_360影视",
+  "name": "📺┃360(官) ",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_奇珍异兽",
+  "name": "🦍┃奇珍┃异兽",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_腾云驾雾",
+  "name": "☁️┃腾云┃驾雾",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_百忙无果",
+  "name": "🍋┃百忙┃无果",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "蚂蚁",
+  "name": "🐜1080P┃蚂蚁",
+  "ok": false,
+  "ms": 8000,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "即可",
+  "name": "👋1080P┃即刻",
+  "ok": false,
+  "ms": 1494,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_赞赞",
+  "name": "👌┃赞赞┃切片",
+  "ok": false,
+  "ms": 2080,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_加速",
+  "name": "🐰┃加速┃APP",
+  "ok": false,
+  "ms": 8008,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "csp_亮亮",
+  "name": "💡┃亮亮┃APP",
+  "ok": false,
+  "ms": 1105,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "cc_乌鸦",
+  "name": "🐦┃乌鸦┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_茶杯狐",
+  "name": "🍵┃茶杯┃狐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_热播之家",
+  "name": "🔥┃热播┃之家",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_shdy2",
+  "name": "🔥┃骚火┃电影",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_黑狐",
+  "name": "🦊┃黑狐┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_蛋蛋",
+  "name": "🥚┃蛋蛋┃看剧",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_小胡",
+  "name": "👒┃小胡┃资源┃",
+  "ok": false,
+  "ms": 632,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "cc_相声",
+  "name": "📻┃相声┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_评书",
+  "name": "📻┃评书┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cc_03影院",
+  "name": "🛀┃03┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_蘑菇",
+  "name": "🍄┃蘑菇┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_胖虎",
+  "name": "🐯┃胖虎┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_蛋蛋",
+  "name": "🌊┃蛋蛋┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_达龟",
+  "name": "🐢┃达龟┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_黑狐",
+  "name": "🦝┃黑狐┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_奇优",
+  "name": "🧼┃奇优┃影院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_TVB",
+  "name": "🅱️┃TVB┃云播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_骚火",
+  "name": "🅱️┃骚火┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_农民",
+  "name": "🅱️┃农民┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_csp_奇优",
+  "name": "🅱️┃奇优┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_疯狗",
+  "name": "🅱️┃疯狗┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_万达",
+  "name": "🅱️┃万达┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_爱看",
+  "name": "🅱️┃爱看┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_七新",
+  "name": "🅱️┃七新┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_超前",
+  "name": "🅱️┃超前┃点播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_玖摇",
+  "name": "🅱️┃4K┃剧院",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_不卡",
+  "name": "🅱️┃不卡┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_午舞",
+  "name": "🅱️┃午舞┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_视觉",
+  "name": "🅱️┃视觉┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_圣城",
+  "name": "🅱️┃圣城┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_好戏",
+  "name": "🅱️┃好戏┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_七月",
+  "name": "🅱️┃七月┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_日后",
+  "name": "🅱️┃348┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_土豪",
+  "name": "🅱️┃土豪┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_兔年",
+  "name": "🅱️┃┃YYDS┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_苹果",
+  "name": "🅱️┃苹果┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_米爱",
+  "name": "🅱️┃米爱┃影视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_非凡",
+  "name": "🅱️┃非凡┃资源",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_量子",
+  "name": "🅱️┃量子┃资源",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_nkdyw",
+  "name": "💢┃南柯┃电影",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_555电影",
+  "name": "📯┃555┃电影",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_voflix",
+  "name": "🌾┃VOF┃高清",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_nkvod",
+  "name": "💢┃耐看┃电影",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_lkvod",
+  "name": "💢┃来看┃点播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_SNzy",
+  "name": "🐉┃索尼┃高清",
+  "ok": false,
+  "ms": 8003,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "taopian",
+  "name": "🕹️淘片┃采集",
+  "ok": true,
+  "ms": 2169,
+  "hits": 2,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_非凡资源",
+  "name": "🥗┃非凡┃资源",
+  "ok": false,
+  "ms": 8016,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "量子资源",
+  "name": "🥑┃量子┃资源",
+  "ok": true,
+  "ms": 2742,
+  "hits": 20,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "49zy",
+  "name": "🦁┃四九┃资源",
+  "ok": false,
+  "ms": 262,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "feisu",
+  "name": "🛰️飞速┃采集",
+  "ok": false,
+  "ms": 515,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "奇虎资源",
+  "name": "🐯┃奇虎┃采集",
+  "ok": false,
+  "ms": 334,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "可可资源",
+  "name": "⛱┃可可┃采集",
+  "ok": false,
+  "ms": 293,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "虎牙",
+  "name": "🐯虎牙采集",
+  "ok": false,
+  "ms": 1413,
+  "hits": 0,
+  "status": 403,
+  "reason": ""
+ },
+ {
+  "key": "火狐",
+  "name": "🦊火狐采集",
+  "ok": true,
+  "ms": 1078,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "暴风采集",
+  "name": "🌪️暴风影音",
+  "ok": false,
+  "ms": 8002,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "百度",
+  "name": "🎏百度┃采集",
+  "ok": true,
+  "ms": 2222,
+  "hits": 2,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "js_4KHDR",
+  "name": "🧲世界磁力┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_6V",
+  "name": "✡️六维磁力┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_磁力熊",
+  "name": "🐻‍贝尔磁力┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_酷吧",
+  "name": "😎酷吧磁力┃Js",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "XYQH_电影港",
+  "name": "🛳┃港口┃磁力",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_MeijuMi",
+  "name": "🧲美剧迷",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Xunlei8",
+  "name": "🧲迅雷吧",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "mtv_xp_维奇动漫",
+  "name": "🐼维奇丨动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "cctv",
+  "name": "📺央视｜大全",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "py_cctv_少儿",
+  "name": "📺央视｜少儿",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "央视经典",
+  "name": "📺央视｜经典",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_XPath_企鹅体育",
+  "name": "🐧企鹅┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "py_qie",
+  "name": "🏀┃企鹅┃体育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "py_cctv",
+  "name": "❤️┃央视┃py",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MV_vod",
+  "name": "🎶明星┃MV",
+  "ok": false,
+  "ms": 1806,
+  "hits": 0,
+  "status": 401,
+  "reason": ""
+ },
+ {
+  "key": "csp_Yj1211",
+  "name": "📽️网红┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_酷奇",
+  "name": "🎤┃酷奇┃音乐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "88js",
+  "name": "⚽ 88┃看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_qiumi",
+  "name": "⚽ Jrs┃球迷",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_310直播",
+  "name": "⚽310┃看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "酷奇js",
+  "name": "🎤酷奇┃MV",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_武享吧",
+  "name": "🥎┃格斗┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_a8音乐",
+  "name": "🎸┃奥迪┃音乐",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_短剧",
+  "name": "🎧刷刷｜短剧",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_聚短视频",
+  "name": "📽️聚短┃视频",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_有声小说js",
+  "name": "🎧有声┃小说",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili短剧",
+  "name": "🎦┃短剧┃BiL",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "XBPQ_葡萄",
+  "name": "🎦┃短剧┃葡萄",
+  "ok": false,
+  "ms": 841,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_XBPQ_aoaotv",
+  "name": "🎦┃短剧┃嗷嗷",
+  "ok": false,
+  "ms": 279,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "Bili",
+  "name": "🅱哔哔┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Biliych",
+  "name": "🅱哔哔┃歌曲",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_Aid",
+  "name": "🚑急救┃教学",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_童趣",
+  "name": "🧗‍┃童趣┃播视",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dr_兔小贝",
+  "name": "📚儿童┃启蒙",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_少儿教育",
+  "name": "📚少儿┃教育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_小学课堂",
+  "name": "📚小学┃课堂",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_初中课堂",
+  "name": "📚初中┃课堂",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_高中教育",
+  "name": "📚高中┃课堂",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_csp_Bili",
+  "name": "🅱️┃哔哩┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_dashan",
+  "name": "💋┃搭讪┃教程",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili__dapei",
+  "name": "💃┃搭配┃教程",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_B站精简",
+  "name": "🅱️┃哔哩┃精简",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_meishi",
+  "name": "🅱️┃美食┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_youer",
+  "name": "🅱️┃幼儿┃教育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_xiaoxue",
+  "name": "🅱️┃小学┃教育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_czxx",
+  "name": "🅱️┃初中┃教育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_gaozxx",
+  "name": "🅱️┃高中┃教育",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_zyy",
+  "name": "🅱️┃中医┃药区",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_xuqu1",
+  "name": "🅱️┃戏曲┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_TYjs",
+  "name": "🅱️┃体育┃健身",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_xiangsh",
+  "name": "🅱️┃相声┃小品",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_FBqx",
+  "name": "🅱️┃球队┃球星",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_Meinvw",
+  "name": "🅱️┃美女┃舞蹈",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_yanchh",
+  "name": "🅱️┃歌手┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_Nvtuan",
+  "name": "🅱️┃女团┃热舞",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_MV_vod",
+  "name": "🎹┃MTV┃合集",
+  "ok": false,
+  "ms": 824,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_Bili_MTV",
+  "name": "🅱️┃歌曲┃演唱",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Bili_Yinl2",
+  "name": "🅱️┃音悦┃合集",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "js_哔哩直播",
+  "name": "🅱️┃哔哩┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "drpy_js_Alist",
+  "name": "网盘 | Alist[js]",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "本地",
+  "name": "本地存储",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "laoliubei_AList",
+  "name": "AList",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "WebDAV",
+  "name": "WebDAV",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_AList",
+  "name": "小雅｜云盘",
+  "ok": false,
+  "ms": 1415,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "短视频",
+  "name": "📱┃网红┃美女",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "DouBan",
+  "name": "免费分享",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "我的云盘",
+  "name": "🗂我的云盘┃我配置",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "应用商店",
+  "name": "应用商店",
+  "ok": false,
+  "ms": 312,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_push_agent",
+  "name": "手机┃推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "dbokutv_key",
+  "name": "🐼｜独播库",
+  "ok": false,
+  "ms": 361,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "电影天堂",
+  "name": "影视 | 电影天堂",
+  "ok": false,
+  "ms": 8008,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "天涯采集",
+  "name": "影视 | 天涯",
+  "ok": false,
+  "ms": 955,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "量子",
+  "name": "影视 | 量子[直连]",
+  "ok": false,
+  "ms": 8002,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "非凡",
+  "name": "影视 | 非凡[直连]",
+  "ok": true,
+  "ms": 543,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "索尼",
+  "name": "影视 | 索尼[直连]",
+  "ok": false,
+  "ms": 8001,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "极速资源",
+  "name": "影视 | 极速[直连]",
+  "ok": true,
+  "ms": 3671,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "建安采集",
+  "name": "影视 | 建安",
+  "ok": true,
+  "ms": 688,
+  "hits": 20,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "率率",
+  "name": "影视 | 率率[直连]",
+  "ok": false,
+  "ms": 8006,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "xiaoma_百度",
+  "name": "百度",
+  "ok": true,
+  "ms": 1816,
+  "hits": 2,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "暴風",
+  "name": "影视 | 暴風[直连]",
+  "ok": false,
+  "ms": 8002,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "AQY",
+  "name": "爱奇艺",
+  "ok": false,
+  "ms": 91,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "YK",
+  "name": "优酷视频",
+  "ok": false,
+  "ms": 172,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "TX",
+  "name": "腾讯视频",
+  "ok": false,
+  "ms": 51,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "MG",
+  "name": "芒果TV",
+  "ok": false,
+  "ms": 47,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_玩偶",
+  "name": "👽玩偶哥哥┃4K弹幕",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "huban",
+  "name": "弹幕|小窗",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_电影天堂",
+  "name": "️天堂┃采集",
+  "ok": false,
+  "ms": 8001,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "xiaoma_dr_兔小贝",
+  "name": "📚儿童┃启蒙",
+  "ok": false,
+  "ms": 88,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaoma_少儿教育",
+  "name": "📚少儿┃教育",
+  "ok": false,
+  "ms": 43,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_小学课堂",
+  "name": "📚小学┃课堂",
+  "ok": false,
+  "ms": 43,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_初中课堂",
+  "name": "📚初中┃课堂",
+  "ok": false,
+  "ms": 48,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_高中教育",
+  "name": "📚高中┃课堂",
+  "ok": false,
+  "ms": 46,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_AListGuard",
+  "name": "AList",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_YGP",
+  "name": "🚀叨观荐影┃预告片",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "MTV1",
+  "name": "🎙️易听音乐┃带歌词",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Dm84",
+  "name": "🚌巴士┃动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Anime1",
+  "name": "🐾日本┃动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_新6V",
+  "name": "🧲新6V┃磁力",
+  "ok": false,
+  "ms": 484,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_荐片",
+  "name": "🐭荐片┃P2P",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_厂长",
+  "name": "📔厂长┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_文采",
+  "name": "💮文采┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_原创",
+  "name": "☀原创┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_比特",
+  "name": "🍄比特┃秒播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_糯米",
+  "name": "🍓糯米┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_热播",
+  "name": "📺热播┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "剧圈",
+  "name": "🐻剧圈┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "光影",
+  "name": "🌞光影┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "视界",
+  "name": "🍙视界┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "花花",
+  "name": "🥝花花┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "播客",
+  "name": "🦊播客┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "爱影",
+  "name": "👀爱影┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "猫猫",
+  "name": "🐟猫猫┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "奥特",
+  "name": "奥特┃多线",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_量子资源",
+  "name": "量子资源(切)",
+  "ok": false,
+  "ms": 8003,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "红牛资源",
+  "name": "红牛资源(切)",
+  "ok": true,
+  "ms": 639,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "闪电资源",
+  "name": "闪电资源(切)",
+  "ok": false,
+  "ms": 708,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "光速资源",
+  "name": "光速资源(切)",
+  "ok": false,
+  "ms": 711,
+  "hits": 0,
+  "status": 403,
+  "reason": ""
+ },
+ {
+  "key": "新浪资源",
+  "name": "新浪资源(切)",
+  "ok": false,
+  "ms": 8001,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "秒看",
+  "name": "秒看",
+  "ok": false,
+  "ms": 8013,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "还行",
+  "name": "还行",
+  "ok": false,
+  "ms": 109,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "超全",
+  "name": "⚽吃瓜┃看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_看球",
+  "name": "⚽手机┃看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaoma_MTV",
+  "name": "🎶明星┃MV",
+  "ok": false,
+  "ms": 46,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_Biliych",
+  "name": "🅱哔哔演唱会┃弹幕",
+  "ok": false,
+  "ms": 46,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_Bili",
+  "name": "🅱哔哔合集┃弹幕",
+  "ok": false,
+  "ms": 47,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaoma_Aid",
+  "name": "🚑急救┃教学",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "88",
+  "name": "⚽八八┃看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "豆瓣2",
+  "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "豆瓣1",
+  "name": "📢公告停更",
+  "ok": false,
+  "ms": 82,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "ouge_config",
+  "name": "🐲歌配置｜中心",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "配置中心",
+  "name": "❤配置｜中心",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_wogg1",
+  "name": "🐲接口失效",
+  "ok": false,
+  "ms": 2112,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_woog2",
+  "name": "🐲关注公众号",
+  "ok": false,
+  "ms": 1593,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "夸快3",
+  "name": "❤装歌APP",
+  "ok": false,
+  "ms": 1794,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "夸快2",
+  "name": "❤重新领取",
+  "ok": false,
+  "ms": 1198,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "ouge_push_agent",
+  "name": "📢手机｜推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "ouge_应用商店",
+  "name": "🛒本地包更新",
+  "ok": false,
+  "ms": 69,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "py_douban",
+  "name": "📢接口软件永远免费",
+  "ok": false,
+  "ms": 3444,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "豆瓣4",
+  "name": "📢长期维护切勿贩卖",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "drpy_js_豆瓣",
+  "name": "🔥聚玩盒子4K",
+  "ok": false,
+  "ms": 622,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "4k_豆瓣",
+  "name": "🔥公众号：聚玩盒",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "小胡",
+  "name": "🔥┃小胡┃4K",
+  "ok": false,
+  "ms": 175,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_Mp4Mov",
+  "name": "🧲┃Mp4┃4k",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_SeedHub",
+  "name": "🧲┃SeedHub┃4k",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_SixV",
+  "name": "💕┃磁力┃4K",
+  "ok": false,
+  "ms": 648,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "七新",
+  "name": "👼┃七新┃2K",
+  "ok": false,
+  "ms": 882,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "一起看 ",
+  "name": "❤┃一起┃2K",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": " 在线┃直播1",
+  "name": "📺┃竞技┃直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": " 在线┃直播2",
+  "name": "📺┃网红┃直播",
+  "ok": false,
+  "ms": 456,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "4k_cctv",
+  "name": "📺┃央视┃大全",
+  "ok": false,
+  "ms": 554,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_py_cctv_少儿",
+  "name": "📺┃央视┃少儿",
+  "ok": false,
+  "ms": 403,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_央视经典",
+  "name": "📺┃央视┃经典",
+  "ok": false,
+  "ms": 390,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "drpy_js_360影视",
+  "name": "🧡┃360┃官源",
+  "ok": false,
+  "ms": 168,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "初恋资源",
+  "name": "🧡┃初恋┃官源",
+  "ok": false,
+  "ms": 1845,
+  "hits": 0,
+  "status": 429,
+  "reason": ""
+ },
+ {
+  "key": "小柚",
+  "name": "🍊┃小柚┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "南坊",
+  "name": "🎃┃南坊┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "fok",
+  "name": "🌙┃夸克┃影视",
+  "ok": false,
+  "ms": 29,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "耐看",
+  "name": "🕶┃耐看┃影视",
+  "ok": false,
+  "ms": 45,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_南瓜",
+  "name": "🎃┃南瓜┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "4k_萌米",
+  "name": "👀┃萌米┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "繁星",
+  "name": "💥┃繁星┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Nmys",
+  "name": "🌾┃农民┃直连",
+  "ok": false,
+  "ms": 1353,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "4k_荐片",
+  "name": "🧲┃荐片┃磁力",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "77",
+  "name": "👒┃七七┃App",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "奈飞中文",
+  "name": "🎗┃奈飞┃秒播",
+  "ok": false,
+  "ms": 202,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "九六",
+  "name": "🎀┃九六┃直连",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "熊掌",
+  "name": "🐻┃熊掌┃高清",
+  "ok": false,
+  "ms": 3130,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "ikunzy",
+  "name": "🐓┃爱坤┃资源",
+  "ok": false,
+  "ms": 146,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "天天",
+  "name": "💡┃天天┃影视",
+  "ok": false,
+  "ms": 54,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_Bili",
+  "name": "🅱┃哔哔┃合集",
+  "ok": false,
+  "ms": 49,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "赛文",
+  "name": "🍩┃赛文┃资源",
+  "ok": false,
+  "ms": 313,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "豪华资源",
+  "name": "🎥┃豪华┃资源",
+  "ok": true,
+  "ms": 766,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "hnzy",
+  "name": "🎥┃红牛┃资源",
+  "ok": true,
+  "ms": 251,
+  "hits": 8,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "gszy",
+  "name": "🎥┃光速┃资源",
+  "ok": false,
+  "ms": 835,
+  "hits": 0,
+  "status": 403,
+  "reason": ""
+ },
+ {
+  "key": "lzzy",
+  "name": "🎥┃量子┃资源",
+  "ok": false,
+  "ms": 8005,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "snzy",
+  "name": "🎥┃索尼┃资源",
+  "ok": false,
+  "ms": 8001,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "drpy_js_310直播",
+  "name": "⚽310直播",
+  "ok": false,
+  "ms": 8013,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "4k_MV_vod",
+  "name": "⚡┃明星┃MV",
+  "ok": false,
+  "ms": 1074,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "相声小品",
+  "name": "😍┃相声┃小品",
+  "ok": false,
+  "ms": 210,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "戏 曲",
+  "name": "👵┃老年┃戏曲",
+  "ok": false,
+  "ms": 124,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "短剧one",
+  "name": "🥰┃短剧┃视频",
+  "ok": false,
+  "ms": 11,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "种子短剧",
+  "name": "💮┃短剧┃视频",
+  "ok": false,
+  "ms": 748,
+  "hits": 0,
+  "status": 403,
+  "reason": ""
+ },
+ {
+  "key": "csp_WoGG",
+  "name": "👽┃玩偶┃4K①",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "玩我哥哥",
+  "name": "测┃玩我┃哥哥",
+  "ok": false,
+  "ms": 244,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "玩偶哥哥",
+  "name": "测┃玩偶┃哥哥",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "玩偶运输车",
+  "name": "测┃玩偶┃运输",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_PanSou",
+  "name": "🦊┃盘搜┃搜索",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_UpYun",
+  "name": "😻┃Up搜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_PanSearch",
+  "name": "🙀┃盘Se┃搜索",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_七夜",
+  "name": "😾┃七夜┃搜索",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "阿里云盘登录",
+  "name": "🐲阿里┃云盘登录",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "4k_push_agent",
+  "name": "📽推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_DouDou",
+  "name": "🔍聚玩盒子-本接口免费-🈲贩卖",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Czsapp",
+  "name": "🏭厂长",
+  "ok": false,
+  "ms": 1247,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_YQKan",
+  "name": "🌎一起看",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_NanGua",
+  "name": "🎃南瓜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "酷看",
+  "name": "💡酷看",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_率率",
+  "name": "🌸率率",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_萌米",
+  "name": "👀萌米",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "星奇",
+  "name": "💥星奇",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Jianpian",
+  "name": "🧲荐片",
+  "ok": false,
+  "ms": 280,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_DiDuan",
+  "name": "📺低端",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Auete",
+  "name": "🐼奥特",
+  "ok": false,
+  "ms": 521,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "csp_MLYS",
+  "name": "🐴毛驴",
+  "ok": false,
+  "ms": 10,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_Xinsj",
+  "name": "✨新视觉",
+  "ok": false,
+  "ms": 69,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "csp_Bttwoo",
+  "name": "✌比特",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Lib",
+  "name": "🔷LibVio",
+  "ok": false,
+  "ms": 723,
+  "hits": 0,
+  "status": 403,
+  "reason": ""
+ },
+ {
+  "key": "csp_Kuaikan",
+  "name": "👀快看",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Kunyu77",
+  "name": "👒酷云七七",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "360",
+  "name": "💘360",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_csp_SixV",
+  "name": "🧲新6V",
+  "ok": false,
+  "ms": 846,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaohezi_csp_Anime1",
+  "name": "🌸动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_csp_Dm84",
+  "name": "🚌动漫巴士",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "Ying",
+  "name": "🌸樱花动漫",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_csp_Ysj",
+  "name": "📮异世界",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Duanju",
+  "name": "🎭短剧",
+  "ok": false,
+  "ms": 178,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_csp_Yj1211",
+  "name": "📽️在线直播",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "csp_Kanqiu",
+  "name": "⚽88看球",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_Aid",
+  "name": "🚑急救教学",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_csp_WoGG",
+  "name": "👽玩偶哥哥",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_YiSo",
+  "name": "🆎易搜",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_PanSou",
+  "name": "📀盘搜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_UpYun",
+  "name": "☁️UP云搜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_PanSearch",
+  "name": "🙀盘搜索",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "Dovx",
+  "name": "😾七夜",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_Zhaozy",
+  "name": "🦊找资源",
+  "ok": false,
+  "ms": 1,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_push_agent",
+  "name": "🍭推送",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_csp_Nbys",
+  "name": "👑泥巴(墙外)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "xiaohezi_csp_trj",
+  "name": "🛫唐人街(墙外)",
+  "ok": false,
+  "ms": 0,
+  "hits": 0,
+  "reason": "no-http-api"
+ },
+ {
+  "key": "农民",
+  "name": "🥝农民",
+  "ok": false,
+  "ms": 1375,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "骚火",
+  "name": "💢骚火",
+  "ok": false,
+  "ms": 83,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "xiaohezi_奇优",
+  "name": "️💢奇优",
+  "ok": false,
+  "ms": 341,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "云播",
+  "name": "💢云播",
+  "ok": false,
+  "ms": 8,
+  "hits": 0,
+  "reason": "fetch failed"
+ },
+ {
+  "key": "drpy_js_虎牙直播",
+  "name": "🐯虎牙直播",
+  "ok": false,
+  "ms": 360,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "drpy_js_斗鱼直播",
+  "name": "🐠斗鱼直播",
+  "ok": false,
+  "ms": 1409,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "drpy_js_有声小说吧",
+  "name": "有声小说吧",
+  "ok": false,
+  "ms": 327,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "drpy_js_JRKAN直播",
+  "name": "JRKAN直播",
+  "ok": false,
+  "ms": 530,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaohezi_短视频",
+  "name": "☘️短视频",
+  "ok": false,
+  "ms": 1444,
+  "hits": 0,
+  "status": 404,
+  "reason": ""
+ },
+ {
+  "key": "酷奇MV",
+  "name": "🎸酷奇MV",
+  "ok": false,
+  "ms": 8018,
+  "hits": 0,
+  "reason": "timeout"
+ },
+ {
+  "key": "xiaohezi_csp_Bili",
+  "name": "🅱️哔哩哔哩",
+  "ok": false,
+  "ms": 2940,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "xiaohezi_相声小品",
+  "name": "🅱️相声小品",
+  "ok": false,
+  "ms": 2100,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "戏曲",
+  "name": "🅱️戏曲",
+  "ok": false,
+  "ms": 328,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "少儿",
+  "name": "🅱️少儿",
+  "ok": false,
+  "ms": 350,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "小学",
+  "name": "🅱️小学",
+  "ok": false,
+  "ms": 356,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "初中",
+  "name": "🅱️初中",
+  "ok": false,
+  "ms": 369,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ },
+ {
+  "key": "高中",
+  "name": "🅱️高中",
+  "ok": false,
+  "ms": 320,
+  "hits": 0,
+  "status": 200,
+  "reason": ""
+ }
+]
