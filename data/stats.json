@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T01:52:21.975Z",
+  "updatedAt": "2026-11-22T00:46:29.335Z",
   "upstreamSites": 554,
-  "removed": 11,
-  "kept": 543,
+  "removed": 14,
+  "kept": 540,
   "removedList": [
     {
       "key": "csp_小胡",
@@ -30,8 +30,23 @@
       "reason": "fetch failed"
     },
     {
+      "key": "MV_vod",
+      "name": "🎶明星┃MV",
+      "reason": "timeout"
+    },
+    {
+      "key": "AQY",
+      "name": "爱奇艺",
+      "reason": "fetch failed"
+    },
+    {
       "key": "YK",
       "name": "优酷视频",
+      "reason": "fetch failed"
+    },
+    {
+      "key": "TX",
+      "name": "腾讯视频",
       "reason": "fetch failed"
     },
     {

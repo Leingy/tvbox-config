@@ -3503,18 +3503,6 @@
       "ext": "./libs/cctv.py"
     },
     {
-      "key": "MV_vod",
-      "name": "🎶明星┃MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "csp_Yj1211",
       "name": "📽️网红┃直播",
       "type": 3,
@@ -4434,20 +4422,6 @@
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "AQY",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "https://szyyds.cn/js/6F02.js",
-      "ext": "https://szyyds.cn/js/3c16.js"
-    },
-    {
-      "key": "TX",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "https://szyyds.cn/js/6F02.js",
-      "ext": "https://szyyds.cn/js/7294.js"
     },
     {
       "key": "xiaoma_玩偶",
