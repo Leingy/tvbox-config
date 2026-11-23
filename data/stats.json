@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T00:46:29.335Z",
-  "upstreamSites": 554,
-  "removed": 14,
-  "kept": 540,
+  "updatedAt": "2026-11-23T01:14:24.601Z",
+  "upstreamSites": 553,
+  "removed": 9,
+  "kept": 544,
   "removedList": [
     {
       "key": "csp_小胡",
@@ -27,31 +27,6 @@
     {
       "key": "可可资源",
       "name": "⛱┃可可┃采集",
-      "reason": "fetch failed"
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎶明星┃MV",
-      "reason": "timeout"
-    },
-    {
-      "key": "AQY",
-      "name": "爱奇艺",
-      "reason": "fetch failed"
-    },
-    {
-      "key": "YK",
-      "name": "优酷视频",
-      "reason": "fetch failed"
-    },
-    {
-      "key": "TX",
-      "name": "腾讯视频",
-      "reason": "fetch failed"
-    },
-    {
-      "key": "MG",
-      "name": "芒果TV",
       "reason": "fetch failed"
     },
     {
