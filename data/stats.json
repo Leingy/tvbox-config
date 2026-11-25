@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T05:04:08.281Z",
+  "updatedAt": "2026-11-25T03:51:46.076Z",
   "upstreamSites": 549,
-  "removed": 10,
-  "kept": 539,
+  "removed": 11,
+  "kept": 538,
   "removedList": [
     {
       "key": "csp_小胡",
@@ -30,8 +30,13 @@
       "reason": "fetch failed"
     },
     {
-      "key": "laoliubei_MV_vod",
-      "name": "🎹┃MTV┃合集",
+      "key": "MV_vod",
+      "name": "🎶明星┃MV",
+      "reason": "timeout"
+    },
+    {
+      "key": "xiaoma_量子资源",
+      "name": "量子资源(切)",
       "reason": "timeout"
     },
     {
