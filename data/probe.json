@@ -27,7 +27,7 @@
   "key": "PanMarket",
   "name": "🐼┃网盘┃应用",
   "ok": false,
-  "ms": 1397,
+  "ms": 1803,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -44,7 +44,7 @@
   "key": "csp_FeiMaoUC",
   "name": "⚡┃闪电┃优汐",
   "ok": false,
-  "ms": 2465,
+  "ms": 3325,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -53,7 +53,7 @@
   "key": "csp_Duopan",
   "name": "🖍︎┃蜡笔┃影视",
   "ok": false,
-  "ms": 197,
+  "ms": 265,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -61,7 +61,7 @@
   "key": "潮流",
   "name": "🏜┃潮流┃APP",
   "ok": false,
-  "ms": 1084,
+  "ms": 1272,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -69,7 +69,7 @@
   "key": "肥猫",
   "name": "🐼┃肥猫┃APP",
   "ok": false,
-  "ms": 1263,
+  "ms": 1797,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -78,7 +78,7 @@
   "key": "干饭",
   "name": "🍚┃干饭┃APP",
   "ok": false,
-  "ms": 1256,
+  "ms": 1601,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -87,7 +87,7 @@
   "key": "光盘",
   "name": "📀┃光盘┃APP",
   "ok": false,
-  "ms": 497,
+  "ms": 1067,
   "hits": 0,
   "status": 500,
   "reason": ""
@@ -96,7 +96,7 @@
   "key": "行动",
   "name": "😌┃行动┃APP",
   "ok": false,
-  "ms": 1749,
+  "ms": 2924,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -105,7 +105,7 @@
   "key": "再来",
   "name": "✌️┃再来┃APP",
   "ok": false,
-  "ms": 2513,
+  "ms": 2806,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -114,7 +114,7 @@
   "key": "一碗",
   "name": "🥣┃一碗┃APP",
   "ok": false,
-  "ms": 2059,
+  "ms": 2467,
   "hits": 0,
   "status": 451,
   "reason": ""
@@ -147,7 +147,7 @@
   "key": "蔬菜",
   "name": "🫛┃蔬菜┃APP",
   "ok": false,
-  "ms": 1923,
+  "ms": 2457,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -164,7 +164,7 @@
   "key": "荐片",
   "name": "🎬┃荐片┃影视",
   "ok": false,
-  "ms": 2752,
+  "ms": 3506,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -173,7 +173,7 @@
   "key": "csp_SaoHuo",
   "name": "🔥┃火火┃影视",
   "ok": false,
-  "ms": 2204,
+  "ms": 2663,
   "hits": 0,
   "status": 522,
   "reason": ""
@@ -198,7 +198,7 @@
   "key": "csp_Bili",
   "name": "🅱┃️哔哩┃合集",
   "ok": false,
-  "ms": 3500,
+  "ms": 3793,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -207,7 +207,7 @@
   "key": "csp_Dm84",
   "name": "🤣┃动漫┃巴士",
   "ok": false,
-  "ms": 3085,
+  "ms": 3953,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -216,16 +216,16 @@
   "key": "方舟",
   "name": "🐷┃方舟┃动漫",
   "ok": false,
-  "ms": 3504,
+  "ms": 4548,
   "hits": 0,
-  "status": 200,
+  "status": 403,
   "reason": ""
  },
  {
   "key": "番薯",
   "name": "🍠┃番薯┃动漫",
   "ok": false,
-  "ms": 2721,
+  "ms": 3439,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -249,7 +249,7 @@
   "key": "MTV",
   "name": "🎧┃明星┃MV",
   "ok": false,
-  "ms": 3948,
+  "ms": 4770,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -274,7 +274,7 @@
   "key": "米搜",
   "name": "🌖┃米搜┃网盘",
   "ok": false,
-  "ms": 6,
+  "ms": 5,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -282,7 +282,7 @@
   "key": "csp_PanSearch",
   "name": "🚃┃盘搜┃网盘",
   "ok": false,
-  "ms": 6,
+  "ms": 5,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -298,7 +298,7 @@
   "key": "csp_少儿",
   "name": "📚┃少儿┃教育",
   "ok": false,
-  "ms": 6325,
+  "ms": 4530,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -307,7 +307,7 @@
   "key": "csp_小学",
   "name": "📚┃小学┃课堂",
   "ok": false,
-  "ms": 3797,
+  "ms": 6005,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -316,7 +316,7 @@
   "key": "csp_初中",
   "name": "📚┃初中┃课堂",
   "ok": false,
-  "ms": 3807,
+  "ms": 4803,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -325,7 +325,7 @@
   "key": "csp_高中",
   "name": "📚┃高中┃课堂",
   "ok": false,
-  "ms": 4312,
+  "ms": 4887,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -342,13 +342,13 @@
   "key": "Douban",
   "name": "🐮【免费分享】🐮",
   "ok": false,
-  "ms": 8001,
+  "ms": 8000,
   "hits": 0,
   "reason": "timeout"
  },
  {
   "key": "Doubanaaaa",
-  "name": "🐮【更新日期:20261124】🐮",
+  "name": "🐮【更新日期:20261126】🐮",
   "ok": false,
   "ms": 8000,
   "hits": 0,
@@ -998,7 +998,7 @@
   "key": "bilibili",
   "name": " 🅱‍哔哩┃合集🅱‍",
   "ok": false,
-  "ms": 6993,
+  "ms": 5217,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1007,7 +1007,7 @@
   "key": "bilixiqu",
   "name": " 🅱‍哔哩┃戏曲🅱‍",
   "ok": false,
-  "ms": 6633,
+  "ms": 6761,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1016,7 +1016,7 @@
   "key": "biliych",
   "name": " 🅱‍哔哩┃歌曲🅱‍",
   "ok": false,
-  "ms": 6040,
+  "ms": 6311,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1025,7 +1025,7 @@
   "key": "少儿教育",
   "name": "📚少儿┃教育📚",
   "ok": false,
-  "ms": 6418,
+  "ms": 6326,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1034,7 +1034,7 @@
   "key": "小学课堂",
   "name": "📚小学┃课堂📚",
   "ok": false,
-  "ms": 7369,
+  "ms": 6335,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1043,7 +1043,7 @@
   "key": "初中课堂",
   "name": "📚初中┃课堂📚",
   "ok": false,
-  "ms": 6973,
+  "ms": 5988,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1052,7 +1052,7 @@
   "key": "高中教育",
   "name": "📚高中┃课堂📚",
   "ok": false,
-  "ms": 6182,
+  "ms": 6705,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1157,7 +1157,7 @@
   "key": "laoliubei_玩偶",
   "name": "👽玩偶哥哥┃4K弹幕",
   "ok": false,
-  "ms": 3454,
+  "ms": 3453,
   "hits": 0,
   "status": 403,
   "reason": ""
@@ -1270,7 +1270,7 @@
   "key": "zxzj",
   "name": "🍊┃在线┃外剧",
   "ok": false,
-  "ms": 4384,
+  "ms": 4982,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1295,7 +1295,7 @@
   "key": "厂长",
   "name": "📔┃厂长┃不卡",
   "ok": false,
-  "ms": 5224,
+  "ms": 5272,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1320,7 +1320,7 @@
   "key": "Auete",
   "name": "🏝┃Aue┃无广",
   "ok": false,
-  "ms": 3187,
+  "ms": 3273,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1329,7 +1329,7 @@
   "key": "新6V",
   "name": "🧲┃新6V┃磁力",
   "ok": false,
-  "ms": 3796,
+  "ms": 3956,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1410,7 +1410,7 @@
   "key": "csp_AppRZ",
   "name": " 🕵┃忍者┃影视",
   "ok": false,
-  "ms": 2989,
+  "ms": 3118,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1467,7 +1467,7 @@
   "key": "laoliubei_csp_Duopan",
   "name": "🖍︎┃蜡笔┃云盘",
   "ok": false,
-  "ms": 2622,
+  "ms": 2828,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1475,7 +1475,7 @@
   "key": "laoliubei_荐片",
   "name": "🎬┃荐片┃影视",
   "ok": false,
-  "ms": 2717,
+  "ms": 3094,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1644,7 +1644,7 @@
   "key": "Zhaozy",
   "name": "🔍┃阿里┃Zhaozy",
   "ok": false,
-  "ms": 0,
+  "ms": 1,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1676,7 +1676,7 @@
   "key": "P4_绿豆",
   "name": "🐼┃绿豆┃影视",
   "ok": false,
-  "ms": 8000,
+  "ms": 8001,
   "hits": 0,
   "reason": "timeout"
  },
@@ -1708,7 +1708,7 @@
   "key": "csp_MeiJu69",
   "name": "🗽┃六九┃美剧",
   "ok": false,
-  "ms": 2237,
+  "ms": 2247,
   "hits": 0,
   "status": 403,
   "reason": ""
@@ -1717,7 +1717,7 @@
   "key": "鑫鑫影视",
   "name": "🥇┃鑫鑫┃App",
   "ok": false,
-  "ms": 2322,
+  "ms": 2084,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1725,7 +1725,7 @@
   "key": "csp_beijihu",
   "name": "🎪┃极狐┃App",
   "ok": false,
-  "ms": 2076,
+  "ms": 1996,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1733,7 +1733,7 @@
   "key": "益达影视",
   "name": "🌝┃益达┃App",
   "ok": false,
-  "ms": 1855,
+  "ms": 2055,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1741,7 +1741,7 @@
   "key": "yaya",
   "name": "💮┃鸭鸭┃App",
   "ok": false,
-  "ms": 1237,
+  "ms": 916,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -1749,7 +1749,7 @@
   "key": "xgapp",
   "name": "🍉┃西瓜┃v3",
   "ok": false,
-  "ms": 1845,
+  "ms": 1797,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1758,7 +1758,7 @@
   "key": "骑骑影院",
   "name": "🚵┃骑骑┃v3",
   "ok": false,
-  "ms": 1844,
+  "ms": 1839,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1975,7 +1975,7 @@
   "key": "蚂蚁",
   "name": "🐜1080P┃蚂蚁",
   "ok": false,
-  "ms": 8000,
+  "ms": 8001,
   "hits": 0,
   "reason": "timeout"
  },
@@ -1983,7 +1983,7 @@
   "key": "即可",
   "name": "👋1080P┃即刻",
   "ok": false,
-  "ms": 1338,
+  "ms": 1281,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -1992,7 +1992,7 @@
   "key": "csp_赞赞",
   "name": "👌┃赞赞┃切片",
   "ok": false,
-  "ms": 222,
+  "ms": 196,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2008,7 +2008,7 @@
   "key": "csp_亮亮",
   "name": "💡┃亮亮┃APP",
   "ok": false,
-  "ms": 8001,
+  "ms": 8000,
   "hits": 0,
   "reason": "timeout"
  },
@@ -2064,7 +2064,7 @@
   "key": "csp_小胡",
   "name": "👒┃小胡┃资源┃",
   "ok": false,
-  "ms": 1372,
+  "ms": 1227,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2368,7 +2368,7 @@
   "key": "csp_SNzy",
   "name": "🐉┃索尼┃高清",
   "ok": false,
-  "ms": 1582,
+  "ms": 1506,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -2377,7 +2377,7 @@
   "key": "taopian",
   "name": "🕹️淘片┃采集",
   "ok": true,
-  "ms": 1833,
+  "ms": 1757,
   "hits": 2,
   "status": 200,
   "reason": ""
@@ -2386,7 +2386,7 @@
   "key": "csp_非凡资源",
   "name": "🥗┃非凡┃资源",
   "ok": true,
-  "ms": 1797,
+  "ms": 1655,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -2395,7 +2395,7 @@
   "key": "量子资源",
   "name": "🥑┃量子┃资源",
   "ok": true,
-  "ms": 2243,
+  "ms": 2307,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -2404,7 +2404,7 @@
   "key": "49zy",
   "name": "🦁┃四九┃资源",
   "ok": false,
-  "ms": 1238,
+  "ms": 1151,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2412,7 +2412,7 @@
   "key": "feisu",
   "name": "🛰️飞速┃采集",
   "ok": false,
-  "ms": 728,
+  "ms": 794,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2420,7 +2420,7 @@
   "key": "奇虎资源",
   "name": "🐯┃奇虎┃采集",
   "ok": false,
-  "ms": 715,
+  "ms": 707,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2428,16 +2428,16 @@
   "key": "可可资源",
   "name": "⛱┃可可┃采集",
   "ok": false,
-  "ms": 625,
+  "ms": 762,
   "hits": 0,
   "reason": "fetch failed"
  },
  {
   "key": "虎牙",
   "name": "🐯虎牙采集",
-  "ok": false,
-  "ms": 826,
-  "hits": 0,
+  "ok": true,
+  "ms": 1058,
+  "hits": 8,
   "status": 200,
   "reason": ""
  },
@@ -2445,7 +2445,7 @@
   "key": "火狐",
   "name": "🦊火狐采集",
   "ok": true,
-  "ms": 943,
+  "ms": 1432,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -2454,7 +2454,7 @@
   "key": "暴风采集",
   "name": "🌪️暴风影音",
   "ok": true,
-  "ms": 1444,
+  "ms": 1554,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -2463,7 +2463,7 @@
   "key": "百度",
   "name": "🎏百度┃采集",
   "ok": true,
-  "ms": 1716,
+  "ms": 1674,
   "hits": 2,
   "status": 200,
   "reason": ""
@@ -2688,7 +2688,7 @@
   "key": "XBPQ_葡萄",
   "name": "🎦┃短剧┃葡萄",
   "ok": false,
-  "ms": 693,
+  "ms": 1052,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2696,7 +2696,7 @@
   "key": "csp_XBPQ_aoaotv",
   "name": "🎦┃短剧┃嗷嗷",
   "ok": false,
-  "ms": 510,
+  "ms": 932,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -2912,7 +2912,7 @@
   "key": "laoliubei_MV_vod",
   "name": "🎹┃MTV┃合集",
   "ok": false,
-  "ms": 832,
+  "ms": 1169,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -2977,7 +2977,7 @@
   "key": "csp_AList",
   "name": "小雅｜云盘",
   "ok": false,
-  "ms": 1542,
+  "ms": 1744,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3010,7 +3010,7 @@
   "key": "应用商店",
   "name": "应用商店",
   "ok": false,
-  "ms": 1984,
+  "ms": 1937,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3027,7 +3027,7 @@
   "key": "dbokutv_key",
   "name": "🐼｜独播库",
   "ok": false,
-  "ms": 959,
+  "ms": 1287,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3036,7 +3036,7 @@
   "key": "电影天堂",
   "name": "影视 | 电影天堂",
   "ok": true,
-  "ms": 1015,
+  "ms": 1364,
   "hits": 7,
   "status": 200,
   "reason": ""
@@ -3045,7 +3045,7 @@
   "key": "天涯采集",
   "name": "影视 | 天涯",
   "ok": false,
-  "ms": 1040,
+  "ms": 1249,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3054,7 +3054,7 @@
   "key": "量子",
   "name": "影视 | 量子[直连]",
   "ok": true,
-  "ms": 3917,
+  "ms": 2372,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -3063,7 +3063,7 @@
   "key": "非凡",
   "name": "影视 | 非凡[直连]",
   "ok": true,
-  "ms": 1507,
+  "ms": 2217,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3072,7 +3072,7 @@
   "key": "索尼",
   "name": "影视 | 索尼[直连]",
   "ok": false,
-  "ms": 204,
+  "ms": 217,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3081,7 +3081,7 @@
   "key": "极速资源",
   "name": "影视 | 极速[直连]",
   "ok": true,
-  "ms": 1428,
+  "ms": 1262,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3090,7 +3090,7 @@
   "key": "建安采集",
   "name": "影视 | 建安",
   "ok": true,
-  "ms": 801,
+  "ms": 975,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -3099,7 +3099,7 @@
   "key": "率率",
   "name": "影视 | 率率[直连]",
   "ok": false,
-  "ms": 1276,
+  "ms": 15,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3108,7 +3108,7 @@
   "key": "xiaoma_百度",
   "name": "百度",
   "ok": true,
-  "ms": 1977,
+  "ms": 1895,
   "hits": 2,
   "status": 200,
   "reason": ""
@@ -3117,7 +3117,7 @@
   "key": "暴風",
   "name": "影视 | 暴風[直连]",
   "ok": true,
-  "ms": 1977,
+  "ms": 1633,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -3126,7 +3126,7 @@
   "key": "AQY",
   "name": "爱奇艺",
   "ok": false,
-  "ms": 2230,
+  "ms": 1581,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3135,7 +3135,7 @@
   "key": "YK",
   "name": "优酷视频",
   "ok": false,
-  "ms": 2014,
+  "ms": 1504,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3144,7 +3144,7 @@
   "key": "TX",
   "name": "腾讯视频",
   "ok": false,
-  "ms": 1996,
+  "ms": 1458,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3153,7 +3153,7 @@
   "key": "MG",
   "name": "芒果TV",
   "ok": false,
-  "ms": 1906,
+  "ms": 1497,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3178,7 +3178,7 @@
   "key": "xiaoma_电影天堂",
   "name": "️天堂┃采集",
   "ok": true,
-  "ms": 1149,
+  "ms": 1169,
   "hits": 7,
   "status": 200,
   "reason": ""
@@ -3187,7 +3187,7 @@
   "key": "xiaoma_dr_兔小贝",
   "name": "📚儿童┃启蒙",
   "ok": false,
-  "ms": 1302,
+  "ms": 1660,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3196,7 +3196,7 @@
   "key": "xiaoma_少儿教育",
   "name": "📚少儿┃教育",
   "ok": false,
-  "ms": 1668,
+  "ms": 1411,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3205,7 +3205,7 @@
   "key": "xiaoma_小学课堂",
   "name": "📚小学┃课堂",
   "ok": false,
-  "ms": 1578,
+  "ms": 1337,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3214,7 +3214,7 @@
   "key": "xiaoma_初中课堂",
   "name": "📚初中┃课堂",
   "ok": false,
-  "ms": 2006,
+  "ms": 1324,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3223,7 +3223,7 @@
   "key": "xiaoma_高中教育",
   "name": "📚高中┃课堂",
   "ok": false,
-  "ms": 2022,
+  "ms": 1282,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3272,7 +3272,7 @@
   "key": "xiaoma_新6V",
   "name": "🧲新6V┃磁力",
   "ok": false,
-  "ms": 616,
+  "ms": 607,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3400,16 +3400,17 @@
  {
   "key": "xiaoma_量子资源",
   "name": "量子资源(切)",
-  "ok": false,
-  "ms": 8001,
-  "hits": 0,
-  "reason": "timeout"
+  "ok": true,
+  "ms": 1408,
+  "hits": 20,
+  "status": 200,
+  "reason": ""
  },
  {
   "key": "红牛资源",
   "name": "红牛资源(切)",
   "ok": true,
-  "ms": 1794,
+  "ms": 800,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3418,7 +3419,7 @@
   "key": "闪电资源",
   "name": "闪电资源(切)",
   "ok": false,
-  "ms": 1723,
+  "ms": 921,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3426,9 +3427,9 @@
  {
   "key": "光速资源",
   "name": "光速资源(切)",
-  "ok": false,
-  "ms": 1677,
-  "hits": 0,
+  "ok": true,
+  "ms": 798,
+  "hits": 8,
   "status": 200,
   "reason": ""
  },
@@ -3436,7 +3437,7 @@
   "key": "新浪资源",
   "name": "新浪资源(切)",
   "ok": true,
-  "ms": 1532,
+  "ms": 582,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3445,7 +3446,7 @@
   "key": "秒看",
   "name": "秒看",
   "ok": false,
-  "ms": 1670,
+  "ms": 573,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3477,7 +3478,7 @@
   "key": "xiaoma_MTV",
   "name": "🎶明星┃MV",
   "ok": false,
-  "ms": 237,
+  "ms": 196,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3486,7 +3487,7 @@
   "key": "xiaoma_Biliych",
   "name": "🅱哔哔演唱会┃弹幕",
   "ok": false,
-  "ms": 1617,
+  "ms": 191,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3495,7 +3496,7 @@
   "key": "xiaoma_Bili",
   "name": "🅱哔哔合集┃弹幕",
   "ok": false,
-  "ms": 1626,
+  "ms": 195,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3528,7 +3529,7 @@
   "key": "豆瓣1",
   "name": "📢公告停更",
   "ok": false,
-  "ms": 1462,
+  "ms": 505,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3552,7 +3553,7 @@
   "key": "csp_wogg1",
   "name": "🐲接口失效",
   "ok": false,
-  "ms": 1326,
+  "ms": 384,
   "hits": 0,
   "status": 520,
   "reason": ""
@@ -3561,7 +3562,7 @@
   "key": "csp_woog2",
   "name": "🐲关注公众号",
   "ok": false,
-  "ms": 1939,
+  "ms": 663,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3570,7 +3571,7 @@
   "key": "夸快3",
   "name": "❤装歌APP",
   "ok": false,
-  "ms": 2174,
+  "ms": 862,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3579,7 +3580,7 @@
   "key": "夸快2",
   "name": "❤重新领取",
   "ok": false,
-  "ms": 1751,
+  "ms": 465,
   "hits": 0,
   "status": 520,
   "reason": ""
@@ -3596,7 +3597,7 @@
   "key": "ouge_应用商店",
   "name": "🛒本地包更新",
   "ok": false,
-  "ms": 2149,
+  "ms": 1002,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3604,7 +3605,7 @@
   "key": "py_douban",
   "name": "📢接口软件永远免费",
   "ok": false,
-  "ms": 3538,
+  "ms": 2347,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3621,7 +3622,7 @@
   "key": "drpy_js_豆瓣",
   "name": "🔥聚玩盒子4K",
   "ok": false,
-  "ms": 2303,
+  "ms": 1540,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3638,7 +3639,7 @@
   "key": "小胡",
   "name": "🔥┃小胡┃4K",
   "ok": false,
-  "ms": 1355,
+  "ms": 696,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3662,7 +3663,7 @@
   "key": "csp_SixV",
   "name": "💕┃磁力┃4K",
   "ok": false,
-  "ms": 1410,
+  "ms": 954,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3671,7 +3672,7 @@
   "key": "七新",
   "name": "👼┃七新┃2K",
   "ok": false,
-  "ms": 3879,
+  "ms": 2644,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3695,7 +3696,7 @@
   "key": " 在线┃直播2",
   "name": "📺┃网红┃直播",
   "ok": false,
-  "ms": 1792,
+  "ms": 1200,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3704,7 +3705,7 @@
   "key": "4k_cctv",
   "name": "📺┃央视┃大全",
   "ok": false,
-  "ms": 3795,
+  "ms": 2639,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3712,7 +3713,7 @@
   "key": "4k_py_cctv_少儿",
   "name": "📺┃央视┃少儿",
   "ok": false,
-  "ms": 3816,
+  "ms": 4792,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3720,7 +3721,7 @@
   "key": "4k_央视经典",
   "name": "📺┃央视┃经典",
   "ok": false,
-  "ms": 5700,
+  "ms": 4785,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3728,7 +3729,7 @@
   "key": "drpy_js_360影视",
   "name": "🧡┃360┃官源",
   "ok": false,
-  "ms": 3893,
+  "ms": 5266,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3737,7 +3738,7 @@
   "key": "初恋资源",
   "name": "🧡┃初恋┃官源",
   "ok": false,
-  "ms": 4959,
+  "ms": 6064,
   "hits": 0,
   "status": 429,
   "reason": ""
@@ -3762,7 +3763,7 @@
   "key": "fok",
   "name": "🌙┃夸克┃影视",
   "ok": false,
-  "ms": 5579,
+  "ms": 5860,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3770,7 +3771,7 @@
   "key": "耐看",
   "name": "🕶┃耐看┃影视",
   "ok": false,
-  "ms": 5634,
+  "ms": 5952,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3802,7 +3803,7 @@
   "key": "csp_Nmys",
   "name": "🌾┃农民┃直连",
   "ok": false,
-  "ms": 5786,
+  "ms": 5998,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3811,7 +3812,7 @@
   "key": "4k_荐片",
   "name": "🧲┃荐片┃磁力",
   "ok": false,
-  "ms": 5186,
+  "ms": 5876,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3827,7 +3828,7 @@
   "key": "奈飞中文",
   "name": "🎗┃奈飞┃秒播",
   "ok": false,
-  "ms": 5408,
+  "ms": 5993,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3843,7 +3844,7 @@
   "key": "熊掌",
   "name": "🐻┃熊掌┃高清",
   "ok": false,
-  "ms": 5142,
+  "ms": 5599,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3851,7 +3852,7 @@
   "key": "ikunzy",
   "name": "🐓┃爱坤┃资源",
   "ok": false,
-  "ms": 5218,
+  "ms": 5872,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3860,7 +3861,7 @@
   "key": "天天",
   "name": "💡┃天天┃影视",
   "ok": false,
-  "ms": 5362,
+  "ms": 5844,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3868,7 +3869,7 @@
   "key": "4k_Bili",
   "name": "🅱┃哔哔┃合集",
   "ok": false,
-  "ms": 5589,
+  "ms": 6356,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -3877,7 +3878,7 @@
   "key": "赛文",
   "name": "🍩┃赛文┃资源",
   "ok": false,
-  "ms": 8001,
+  "ms": 8000,
   "hits": 0,
   "reason": "timeout"
  },
@@ -3885,7 +3886,7 @@
   "key": "豪华资源",
   "name": "🎥┃豪华┃资源",
   "ok": true,
-  "ms": 5101,
+  "ms": 260,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3894,7 +3895,7 @@
   "key": "hnzy",
   "name": "🎥┃红牛┃资源",
   "ok": true,
-  "ms": 45,
+  "ms": 47,
   "hits": 8,
   "status": 200,
   "reason": ""
@@ -3902,9 +3903,9 @@
  {
   "key": "gszy",
   "name": "🎥┃光速┃资源",
-  "ok": false,
+  "ok": true,
   "ms": 30,
-  "hits": 0,
+  "hits": 8,
   "status": 200,
   "reason": ""
  },
@@ -3912,7 +3913,7 @@
   "key": "lzzy",
   "name": "🎥┃量子┃资源",
   "ok": true,
-  "ms": 364,
+  "ms": 322,
   "hits": 20,
   "status": 200,
   "reason": ""
@@ -3921,7 +3922,7 @@
   "key": "snzy",
   "name": "🎥┃索尼┃资源",
   "ok": false,
-  "ms": 4372,
+  "ms": 211,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3930,7 +3931,7 @@
   "key": "drpy_js_310直播",
   "name": "⚽310直播",
   "ok": false,
-  "ms": 4448,
+  "ms": 5345,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3938,7 +3939,7 @@
   "key": "4k_MV_vod",
   "name": "⚡┃明星┃MV",
   "ok": false,
-  "ms": 4253,
+  "ms": 5318,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -3947,7 +3948,7 @@
   "key": "相声小品",
   "name": "😍┃相声┃小品",
   "ok": false,
-  "ms": 4103,
+  "ms": 5033,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3955,7 +3956,7 @@
   "key": "戏 曲",
   "name": "👵┃老年┃戏曲",
   "ok": false,
-  "ms": 3143,
+  "ms": 4618,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3963,7 +3964,7 @@
   "key": "短剧one",
   "name": "🥰┃短剧┃视频",
   "ok": false,
-  "ms": 3560,
+  "ms": 4840,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3971,10 +3972,9 @@
   "key": "种子短剧",
   "name": "💮┃短剧┃视频",
   "ok": false,
-  "ms": 6932,
+  "ms": 8000,
   "hits": 0,
-  "status": 200,
-  "reason": ""
+  "reason": "timeout"
  },
  {
   "key": "csp_WoGG",
@@ -3988,7 +3988,7 @@
   "key": "玩我哥哥",
   "name": "测┃玩我┃哥哥",
   "ok": false,
-  "ms": 5380,
+  "ms": 7611,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -3996,7 +3996,7 @@
   "key": "玩偶哥哥",
   "name": "测┃玩偶┃哥哥",
   "ok": false,
-  "ms": 5190,
+  "ms": 7606,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4004,7 +4004,7 @@
   "key": "玩偶运输车",
   "name": "测┃玩偶┃运输",
   "ok": false,
-  "ms": 4139,
+  "ms": 6650,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4012,7 +4012,7 @@
   "key": "4k_PanSou",
   "name": "🦊┃盘搜┃搜索",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4020,7 +4020,7 @@
   "key": "4k_UpYun",
   "name": "😻┃Up搜┃搜索",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4044,7 +4044,7 @@
   "key": "阿里云盘登录",
   "name": "🐲阿里┃云盘登录",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4052,7 +4052,7 @@
   "key": "4k_push_agent",
   "name": "📽推送",
   "ok": false,
-  "ms": 0,
+  "ms": 1,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4068,10 +4068,9 @@
   "key": "csp_Czsapp",
   "name": "🏭厂长",
   "ok": false,
-  "ms": 5925,
+  "ms": 8001,
   "hits": 0,
-  "status": 200,
-  "reason": ""
+  "reason": "timeout"
  },
  {
   "key": "csp_YQKan",
@@ -4125,7 +4124,7 @@
   "key": "csp_Jianpian",
   "name": "🧲荐片",
   "ok": false,
-  "ms": 3956,
+  "ms": 6743,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4142,7 +4141,7 @@
   "key": "csp_Auete",
   "name": "🐼奥特",
   "ok": false,
-  "ms": 3764,
+  "ms": 6367,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4151,7 +4150,7 @@
   "key": "csp_MLYS",
   "name": "🐴毛驴",
   "ok": false,
-  "ms": 3782,
+  "ms": 5663,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4159,7 +4158,7 @@
   "key": "csp_Xinsj",
   "name": "✨新视觉",
   "ok": false,
-  "ms": 3653,
+  "ms": 5522,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4175,7 +4174,7 @@
   "key": "csp_Lib",
   "name": "🔷LibVio",
   "ok": false,
-  "ms": 4436,
+  "ms": 6417,
   "hits": 0,
   "status": 403,
   "reason": ""
@@ -4208,7 +4207,7 @@
   "key": "xiaohezi_csp_SixV",
   "name": "🧲新6V",
   "ok": false,
-  "ms": 5762,
+  "ms": 7482,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4249,7 +4248,7 @@
   "key": "csp_Duanju",
   "name": "🎭短剧",
   "ok": false,
-  "ms": 3600,
+  "ms": 5572,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4281,7 +4280,7 @@
   "key": "xiaohezi_csp_WoGG",
   "name": "👽玩偶哥哥",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4289,7 +4288,7 @@
   "key": "xiaohezi_YiSo",
   "name": "🆎易搜",
   "ok": false,
-  "ms": 0,
+  "ms": 1,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4297,7 +4296,7 @@
   "key": "xiaohezi_PanSou",
   "name": "📀盘搜",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4313,7 +4312,7 @@
   "key": "xiaohezi_PanSearch",
   "name": "🙀盘搜索",
   "ok": false,
-  "ms": 0,
+  "ms": 1,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4321,7 +4320,7 @@
   "key": "Dovx",
   "name": "😾七夜",
   "ok": false,
-  "ms": 1,
+  "ms": 0,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4329,7 +4328,7 @@
   "key": "xiaohezi_Zhaozy",
   "name": "🦊找资源",
   "ok": false,
-  "ms": 0,
+  "ms": 1,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4361,7 +4360,7 @@
   "key": "农民",
   "name": "🥝农民",
   "ok": false,
-  "ms": 3652,
+  "ms": 5783,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4370,7 +4369,7 @@
   "key": "骚火",
   "name": "💢骚火",
   "ok": false,
-  "ms": 4045,
+  "ms": 5985,
   "hits": 0,
   "status": 522,
   "reason": ""
@@ -4379,7 +4378,7 @@
   "key": "xiaohezi_奇优",
   "name": "️💢奇优",
   "ok": false,
-  "ms": 3510,
+  "ms": 5556,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4388,7 +4387,7 @@
   "key": "云播",
   "name": "💢云播",
   "ok": false,
-  "ms": 3831,
+  "ms": 5839,
   "hits": 0,
   "reason": "fetch failed"
  },
@@ -4396,7 +4395,7 @@
   "key": "drpy_js_虎牙直播",
   "name": "🐯虎牙直播",
   "ok": false,
-  "ms": 3607,
+  "ms": 5121,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4405,7 +4404,7 @@
   "key": "drpy_js_斗鱼直播",
   "name": "🐠斗鱼直播",
   "ok": false,
-  "ms": 3681,
+  "ms": 5129,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4414,7 +4413,7 @@
   "key": "drpy_js_有声小说吧",
   "name": "有声小说吧",
   "ok": false,
-  "ms": 3649,
+  "ms": 5170,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4423,7 +4422,7 @@
   "key": "drpy_js_JRKAN直播",
   "name": "JRKAN直播",
   "ok": false,
-  "ms": 3709,
+  "ms": 5285,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4432,7 +4431,7 @@
   "key": "xiaohezi_短视频",
   "name": "☘️短视频",
   "ok": false,
-  "ms": 3686,
+  "ms": 5211,
   "hits": 0,
   "status": 404,
   "reason": ""
@@ -4441,15 +4440,15 @@
   "key": "酷奇MV",
   "name": "🎸酷奇MV",
   "ok": false,
-  "ms": 3966,
+  "ms": 8000,
   "hits": 0,
-  "reason": "fetch failed"
+  "reason": "timeout"
  },
  {
   "key": "xiaohezi_csp_Bili",
   "name": "🅱️哔哩哔哩",
   "ok": false,
-  "ms": 3428,
+  "ms": 4973,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4458,7 +4457,7 @@
   "key": "xiaohezi_相声小品",
   "name": "🅱️相声小品",
   "ok": false,
-  "ms": 1306,
+  "ms": 3494,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4467,7 +4466,7 @@
   "key": "戏曲",
   "name": "🅱️戏曲",
   "ok": false,
-  "ms": 1322,
+  "ms": 1267,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4476,7 +4475,7 @@
   "key": "少儿",
   "name": "🅱️少儿",
   "ok": false,
-  "ms": 1375,
+  "ms": 1265,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4485,7 +4484,7 @@
   "key": "小学",
   "name": "🅱️小学",
   "ok": false,
-  "ms": 1324,
+  "ms": 1247,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4494,7 +4493,7 @@
   "key": "初中",
   "name": "🅱️初中",
   "ok": false,
-  "ms": 1403,
+  "ms": 1166,
   "hits": 0,
   "status": 200,
   "reason": ""
@@ -4503,7 +4502,7 @@
   "key": "高中",
   "name": "🅱️高中",
   "ok": false,
-  "ms": 1416,
+  "ms": 1124,
   "hits": 0,
   "status": 200,
   "reason": ""

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T03:51:46.076Z",
+  "updatedAt": "2026-11-26T03:18:04.888Z",
   "upstreamSites": 549,
-  "removed": 11,
-  "kept": 538,
+  "removed": 10,
+  "kept": 539,
   "removedList": [
     {
       "key": "csp_小胡",
@@ -32,11 +32,6 @@
     {
       "key": "MV_vod",
       "name": "🎶明星┃MV",
-      "reason": "timeout"
-    },
-    {
-      "key": "xiaoma_量子资源",
-      "name": "量子资源(切)",
       "reason": "timeout"
     },
     {
